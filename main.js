@@ -1,7 +1,7 @@
 /* строка проверить строку на наличие . и после нее на com или ru */
 // function checkDot(str) {
 //     if (str.includes('.')) {
-//         if (str.includes('com')) {
+//         if (str.includes('com' || 'ru')) {
 //             return 'Есть точка и после нее com или ru!'
 //         } else {
 //             return 'Есть точка но нету com или ru'
